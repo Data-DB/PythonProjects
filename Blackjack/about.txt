@@ -1,0 +1,11 @@
+Project: Blackjack 
+Art Source: 100 days of python Udemy course
+
+This contains my solution to the challenge to create a blackjack game. 
+In addition there is the instructors solution so those viewing can see 
+two ways to accomplish this.
+
+This demonstrates my ability to use python random, list, and dictionary methods 
+to compare drawn cards using conditional statements(if/elif/else) with boolean logic.
+I also use while and for loops to iterate through data and perform operations
+while a condition is true
